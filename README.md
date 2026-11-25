@@ -51,5 +51,5 @@ Nur der App-Code liegt beim Hoster, die Einträge verlassen das iPhone nie.
 - [x] Phase 1: Setup, Datenbank, PWA
 - [x] Phase 2: Tageseingabe mit Vorschlägen, Tippfehler-Suche, Dubletten-Warnung, „Wie Vortag“
 - [x] Phase 3: Verlauf, Lebensmittel/Aktivitäten verwalten (umbenennen, Tags, zusammenführen), Backup
-- [ ] Phase 4: Statistik (Mit/Ohne-Vergleich pro Lebensmittel/Tag/Gewohnheit, Zeitversatz, Korrelationen, Verlauf)
+- [x] Phase 4: Statistik (Mit/Ohne-Vergleich pro Lebensmittel/Tag/Gewohnheit, Zeitversatz, Korrelationen, Verlauf)
 - [ ] Phase 5: Feinschliff (Erinnerungen, Regression, ggf. Import von Gesundheitsdaten)
